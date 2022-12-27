@@ -1,0 +1,11 @@
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\bin\Release\netcoreapp3.0\Jeu de Nim.exe
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\bin\Release\netcoreapp3.0\Jeu de Nim.deps.json
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\bin\Release\netcoreapp3.0\Jeu de Nim.runtimeconfig.json
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\bin\Release\netcoreapp3.0\Jeu de Nim.runtimeconfig.dev.json
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\bin\Release\netcoreapp3.0\Jeu de Nim.dll
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\bin\Release\netcoreapp3.0\Jeu de Nim.pdb
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\obj\Release\netcoreapp3.0\Jeu de Nim.AssemblyInfoInputs.cache
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\obj\Release\netcoreapp3.0\Jeu de Nim.AssemblyInfo.cs
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\obj\Release\netcoreapp3.0\Jeu de Nim.dll
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\obj\Release\netcoreapp3.0\Jeu de Nim.pdb
+C:\Users\lmage\Documents\Adithya\Info ECE\Projet\Jeu de Nim\obj\Release\netcoreapp3.0\Jeu de Nim.csprojAssemblyReference.cache
